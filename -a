@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [1mdiff --git a/-a b/-a[m
 [1mdeleted file mode 100644[m
 [1mindex 26d1531..0000000[m
@@ -20,4 +21,13 @@
 [31m-// add feautre in js -form[m
 \ No newline at end of file[m
 [32m+[m[32m// add feautre in js -button[m
+=======
+[1mdiff --git a/app.js b/app.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5755ca2[m
+[1m--- /dev/null[m
+[1m+++ b/app.js[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m// add feautre in js[m
+>>>>>>> feature
 \ No newline at end of file[m
